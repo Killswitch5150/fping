@@ -1,6 +1,5 @@
-#fping.py is a ping dependent streamlined version of ping. it saves users typing "-c" and that is it.
-#originally written by WebDevPro for a tutorial, and reworked by me in September 2022 to run on OS X
-#i now have added cli support to it
+#fping is an ironically not easier to use version of ping that is dependent on ping
+#it solves zero problems, makes nothing easier, but it does accomplish the same job, and taught me how to accept command line arguments for my programs
 
 #example cli call "python3 fping.py 8.8.8.8 -4"
 
