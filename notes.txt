@@ -1,0 +1,11 @@
+fping is a ping dependent streamlined version of ping. it saves users typing "-c" and that is it.
+Originally written by WebDevPro for a tutorial, and reworked by me in September 2022 to run on OS X
+i now have added cli support to it.
+
+This project is not really designed for public consumption, as it is not really helpful, but is more of a simple instructional piece for:
+-Mac OS X users trying to figure out how to use the native "os" library commands in a world of Windows tutorials
+-Anyone wanting to learn how to accept command line arguments as modifiers for their python programs.
+
+-Contributors/Credits-
+1. WebDevPro (Original Windows version of the ping script this project is based on)
+2. Killswitch5150 (Original OS X port of the script in September 2022, and the addition of CLI argument support)
